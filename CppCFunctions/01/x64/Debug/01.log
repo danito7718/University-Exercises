@@ -1,0 +1,9 @@
+﻿  01.cpp
+C:\Users\Dani's PC\source\repos\CppCFunctions\01\01.cpp(12,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dani's PC\source\repos\CppCFunctions\01\01.cpp(14,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dani's PC\source\repos\CppCFunctions\01\01.cpp(26,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dani's PC\source\repos\CppCFunctions\01\01.cpp(33,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  C:\Users\Dani's PC\source\repos\CppCFunctions\01\01.cpp(33,13):
+  this argument is used as a buffer size
+  
+  01.vcxproj -> C:\Users\Dani's PC\source\repos\CppCFunctions\x64\Debug\01.exe
