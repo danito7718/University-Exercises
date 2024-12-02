@@ -1,0 +1,3 @@
+﻿  03.cpp
+C:\Users\Dani's PC\source\repos\PointersExercise\03\03.cpp(7,17): warning C4305: 'initializing': truncation from 'int' to 'float'
+  03.vcxproj -> C:\Users\Dani's PC\source\repos\PointersExercise\x64\Debug\03.exe
