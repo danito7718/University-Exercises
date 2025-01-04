@@ -1,0 +1,14 @@
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\obj\Debug\net8.0\The biggest number of 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\obj\Debug\net8.0\The biggest number of 3.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\obj\Debug\net8.0\The biggest number of 3.AssemblyInfo.cs
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\obj\Debug\net8.0\The biggest number of 3.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\bin\Debug\net8.0\The biggest number of 3.exe
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\bin\Debug\net8.0\The biggest number of 3.deps.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\bin\Debug\net8.0\The biggest number of 3.runtimeconfig.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\bin\Debug\net8.0\The biggest number of 3.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\bin\Debug\net8.0\The biggest number of 3.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\obj\Debug\net8.0\The biggest number of 3.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\obj\Debug\net8.0\refint\The biggest number of 3.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\obj\Debug\net8.0\The biggest number of 3.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\obj\Debug\net8.0\The biggest number of 3.genruntimeconfig.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\The biggest number of 3\obj\Debug\net8.0\ref\The biggest number of 3.dll

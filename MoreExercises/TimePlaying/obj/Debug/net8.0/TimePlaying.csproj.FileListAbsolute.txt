@@ -1,0 +1,14 @@
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\bin\Debug\net8.0\TimePlaying.exe
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\bin\Debug\net8.0\TimePlaying.deps.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\bin\Debug\net8.0\TimePlaying.runtimeconfig.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\bin\Debug\net8.0\TimePlaying.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\bin\Debug\net8.0\TimePlaying.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\obj\Debug\net8.0\TimePlaying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\obj\Debug\net8.0\TimePlaying.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\obj\Debug\net8.0\TimePlaying.AssemblyInfo.cs
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\obj\Debug\net8.0\TimePlaying.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\obj\Debug\net8.0\TimePlaying.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\obj\Debug\net8.0\refint\TimePlaying.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\obj\Debug\net8.0\TimePlaying.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\obj\Debug\net8.0\TimePlaying.genruntimeconfig.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\TimePlaying\obj\Debug\net8.0\ref\TimePlaying.dll
