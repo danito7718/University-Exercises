@@ -1,0 +1,14 @@
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\bin\Debug\net8.0\MultiplesOf13.exe
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\bin\Debug\net8.0\MultiplesOf13.deps.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\bin\Debug\net8.0\MultiplesOf13.runtimeconfig.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\bin\Debug\net8.0\MultiplesOf13.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\bin\Debug\net8.0\MultiplesOf13.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\obj\Debug\net8.0\MultiplesOf13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\obj\Debug\net8.0\MultiplesOf13.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\obj\Debug\net8.0\MultiplesOf13.AssemblyInfo.cs
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\obj\Debug\net8.0\MultiplesOf13.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\obj\Debug\net8.0\MultiplesOf13.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\obj\Debug\net8.0\refint\MultiplesOf13.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\obj\Debug\net8.0\MultiplesOf13.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\obj\Debug\net8.0\MultiplesOf13.genruntimeconfig.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\MultiplesOf13\obj\Debug\net8.0\ref\MultiplesOf13.dll

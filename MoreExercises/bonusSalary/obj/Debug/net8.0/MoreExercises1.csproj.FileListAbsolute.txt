@@ -1,0 +1,14 @@
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\bin\Debug\net8.0\MoreExercises1.exe
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\bin\Debug\net8.0\MoreExercises1.deps.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\bin\Debug\net8.0\MoreExercises1.runtimeconfig.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\bin\Debug\net8.0\MoreExercises1.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\bin\Debug\net8.0\MoreExercises1.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\obj\Debug\net8.0\MoreExercises1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\obj\Debug\net8.0\MoreExercises1.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\obj\Debug\net8.0\MoreExercises1.AssemblyInfo.cs
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\obj\Debug\net8.0\MoreExercises1.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\obj\Debug\net8.0\MoreExercises1.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\obj\Debug\net8.0\refint\MoreExercises1.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\obj\Debug\net8.0\MoreExercises1.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\obj\Debug\net8.0\MoreExercises1.genruntimeconfig.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\MoreExercises1\obj\Debug\net8.0\ref\MoreExercises1.dll

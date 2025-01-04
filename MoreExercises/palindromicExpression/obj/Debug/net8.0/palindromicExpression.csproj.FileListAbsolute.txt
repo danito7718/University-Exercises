@@ -1,0 +1,14 @@
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\bin\Debug\net8.0\palindromicExpression.exe
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\bin\Debug\net8.0\palindromicExpression.deps.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\bin\Debug\net8.0\palindromicExpression.runtimeconfig.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\bin\Debug\net8.0\palindromicExpression.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\bin\Debug\net8.0\palindromicExpression.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\obj\Debug\net8.0\palindromicExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\obj\Debug\net8.0\palindromicExpression.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\obj\Debug\net8.0\palindromicExpression.AssemblyInfo.cs
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\obj\Debug\net8.0\palindromicExpression.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\obj\Debug\net8.0\palindromicExpression.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\obj\Debug\net8.0\refint\palindromicExpression.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\obj\Debug\net8.0\palindromicExpression.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\obj\Debug\net8.0\palindromicExpression.genruntimeconfig.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\palindromicExpression\obj\Debug\net8.0\ref\palindromicExpression.dll

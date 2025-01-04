@@ -1,0 +1,14 @@
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\bin\Debug\net8.0\Change.exe
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\bin\Debug\net8.0\Change.deps.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\bin\Debug\net8.0\Change.runtimeconfig.json
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\bin\Debug\net8.0\Change.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\bin\Debug\net8.0\Change.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\obj\Debug\net8.0\Change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\obj\Debug\net8.0\Change.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\obj\Debug\net8.0\Change.AssemblyInfo.cs
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\obj\Debug\net8.0\Change.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\obj\Debug\net8.0\Change.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\obj\Debug\net8.0\refint\Change.dll
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\obj\Debug\net8.0\Change.pdb
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\obj\Debug\net8.0\Change.genruntimeconfig.cache
+C:\Users\Dani's PC\source\repos\MoreExercises1\Change\obj\Debug\net8.0\ref\Change.dll
