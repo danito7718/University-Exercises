@@ -1,0 +1,15 @@
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\bin\Debug\net8.0\Lab01.exe
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\bin\Debug\net8.0\Lab01.deps.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\bin\Debug\net8.0\Lab01.runtimeconfig.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\bin\Debug\net8.0\Lab01.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\bin\Debug\net8.0\Lab01.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\Lab01.AssemblyInfo.cs
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\Lab01.sourcelink.json
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\Lab01.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\refint\Lab01.dll
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\Lab01.pdb
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\Lab01.genruntimeconfig.cache
+C:\Users\Dani's PC\Desktop\SoftUni\ProgrammingFundamentalsWithCSharp\09ExercsieDataTypesAndVariables\01\Lab01\obj\Debug\net8.0\ref\Lab01.dll
