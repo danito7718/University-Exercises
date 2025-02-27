@@ -1,8 +1,8 @@
 # University Exercises
 
 ## First Semester (C)
-All C programming exercises are inside the `1SemesterC` folder.
+All C programming exercises from University are inside the `1stSemesterC` folder.
 
 ## Second Semester (C#)
-New C# exercises will be added here.
+All C# programming exercises from University are inside the `2ndSemesterCSharp` folder.
 
