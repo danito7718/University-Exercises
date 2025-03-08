@@ -1,0 +1,14 @@
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\bin\Debug\net8.0\04.exe
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\bin\Debug\net8.0\04.deps.json
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\bin\Debug\net8.0\04.runtimeconfig.json
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\bin\Debug\net8.0\04.dll
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\bin\Debug\net8.0\04.pdb
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\obj\Debug\net8.0\04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\obj\Debug\net8.0\04.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\obj\Debug\net8.0\04.AssemblyInfo.cs
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\obj\Debug\net8.0\04.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\obj\Debug\net8.0\04.dll
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\obj\Debug\net8.0\refint\04.dll
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\obj\Debug\net8.0\04.pdb
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\obj\Debug\net8.0\04.genruntimeconfig.cache
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab03\04\obj\Debug\net8.0\ref\04.dll
