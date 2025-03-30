@@ -1,0 +1,14 @@
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\bin\Debug\net8.0\08.exe
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\bin\Debug\net8.0\08.deps.json
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\bin\Debug\net8.0\08.runtimeconfig.json
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\bin\Debug\net8.0\08.dll
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\bin\Debug\net8.0\08.pdb
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\obj\Debug\net8.0\08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\obj\Debug\net8.0\08.AssemblyInfoInputs.cache
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\obj\Debug\net8.0\08.AssemblyInfo.cs
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\obj\Debug\net8.0\08.csproj.CoreCompileInputs.cache
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\obj\Debug\net8.0\08.dll
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\obj\Debug\net8.0\refint\08.dll
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\obj\Debug\net8.0\08.pdb
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\obj\Debug\net8.0\08.genruntimeconfig.cache
+C:\Users\Dani's PC\source\repos\2ndSemester\Lab02Csharp\08\obj\Debug\net8.0\ref\08.dll
